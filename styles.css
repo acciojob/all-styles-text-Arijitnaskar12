@@ -1,14 +1,12 @@
 .main{
 width:200px;
 }
-.h1{
+.heading{
 	background-color:rgb(128,0,128);
 	padding:10px;
 	font-size:16px;
 	color:white;
 	text-decoration:underline;
-}
-.heading{
 	border-left:5px solid green;
 }
 /* Your CSS Code here. */
