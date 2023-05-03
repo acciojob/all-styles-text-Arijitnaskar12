@@ -1,10 +1,11 @@
 .main{
 width:200px;
+background-color:rgb(128,0,128);
 }
 .heading{
-	background-color:rgb(128,0,128);
+	
 	padding:10px;
-	font-size:16px;
+	font-size:20px;
 	color:white;
 	text-decoration:underline;
 	border-left:5px solid green;
